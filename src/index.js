@@ -9,13 +9,13 @@ membersButton.forEach((button) => {
 });
 
 document.getElementById("sideButtonRight1").addEventListener("click", () => {
-  window.location.href = "./src/Daily.html";
+  window.location.href = "./Daily.html";
 });
 
 document.getElementById("sideButtonRight2").addEventListener("click", () => {
-  window.location.href = "./src/Blindspot.html";
+  window.location.href = "./Blindspot.html";
 });
 
 document.getElementById("sideButtonRight3").addEventListener("click", () => {
-  window.location.href = "./src/Decision.html";
+  window.location.href = "./Decision.html";
 });
