@@ -19,3 +19,7 @@ document.getElementById("sideButtonRight2").addEventListener("click", () => {
 document.getElementById("sideButtonRight3").addEventListener("click", () => {
   window.location.href = "./Decision.html";
 });
+
+document.getElementById("impressum").addEventListener("click", () => {
+  window.location.href = "./Impressum.html";
+});
